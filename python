@@ -1,0 +1,259 @@
+# print(" ( Habolo mamar name siril onogaie ) ")
+# print("who Hablo mamabr ostat tar name lekooo : ")
+# name=input()
+# input(name)
+# n = int(input())
+# for i in range(1,n,1):
+#     print("Hablo Jobaid:", i )
+#
+# for i in range(90):
+#     print("number:", i )
+#
+# x = int(1)
+# y = int(2.8)
+# z = int("3")
+# print(x)
+# print(y)
+# print(z)
+
+# print("Enter the fast numear :")
+# name=input()
+# input(name)
+# print(input())
+
+#               #        SWAPPING (OLOT PALOT KORA ) - MANE RIPLIS KORA
+# a = 40
+# b = 50
+# a,b = b,a        #replis kora holo aekane a ta de gemon (a,b = b,a)
+# print("this velo is now a =", a)
+# print("this velo is now b =", b)
+
+
+# name = "jobaid"
+#
+# print(name)
+
+# print("name heeio : ")
+# name = input()
+# input(name)
+#
+# print(name)
+
+
+
+# complex data type
+
+# a = 40j
+# print(type (a))
+
+# Srinting type data
+
+# yourname = 'habulo '
+#
+# myname = 'jobaid ']
+#
+# print(myname + myname)
+
+#
+# print('myname is '+' '+ 'jobaid ')
+
+# x = 5
+# y = 10
+#
+# print(type(x > y))
+
+
+#
+# a = 5
+# b = 10
+#
+# print("summation Result :", a + b)
+# print("subtration Result : ",a- b)
+# print("multraction Result :", a * b)
+# print("Division Result : ",a / b)
+
+
+# # Bynary type data
+#
+# hablo = [6,6,6,6,56]
+# A = bytes(hablo)
+# print(A[2])
+
+# x = {"name" : "John", "age" : 36}
+# print(type(x))
+
+# a = 45
+# b = 5
+# print(a+b)
+
+
+# a = 5
+# b = 10
+# print("sumtacsion reselt ",a + b)
+# print(a - b)
+# print(a * b)
+# print(a / b)
+# print(a % b)
+# print(a ** b)
+# print(a // b)
+
+
+
+
+#
+#
+# a = 8
+# b = 2
+# sum = (a + b)
+# print(sum)
+
+
+
+
+
+#
+# print("Search Google or type a URL :")
+# name = input()
+# input(name)
+
+#
+# print("What your name")
+# name = input()
+# input(name)
+# print("What your  mather name")
+# name = input()
+# input(name)
+# print("What your fhther name")
+# name = input()
+# input(name)
+# print("What your fast name")
+# name = input()
+# input(name)
+# print("What your last name")
+# name = input()
+# input(name)
+# print("What your father fast name")
+# name = input()
+# input(name)
+# print("What your father last name")
+# name = input()
+# input(name)
+# print("What your mather fast name")
+# name = input()
+# input(name)
+# print("What your mather last name")
+# name = input()
+# input(name)
+# print("What your fast name")
+# name = input()
+# input(name)
+# print("What your last name")
+# name = input()
+# input(name)
+# print("how old years old ?")
+# name = input()
+# input(name)
+# print("                   Thankyou somas")
+
+
+# type casting
+#
+# num = "2398457"
+# print(int(num))
+#
+# print(type(int(num)))
+
+#                                         # # add aitem list
+#
+# li = ["habolo","asdf","asdkj","kjas",]
+# li.append(76)            #append item
+# print(li)
+
+
+
+#
+#                                                         # # insert item
+#
+# hablo = ["sd","sdf","sdk",";asd",]
+# hablo.insert(1,"salowerwqerqwelrwl")
+# hablo.insert(2,"salowfslfl")
+# print(hablo)
+
+#
+# hablo = ["sd","sdf","sdk",";asd",]
+# hablo.remove("sd")
+# print(hablo)
+
+
+
+
+#                                         # frome  ier simel list your silf coyec user input
+#
+# name = input("what your name?:")
+# print(" my name is ",name)
+#
+# name = input("what your name?:")
+# print(" my name is ",name)
+#
+# name = input("what your name?:")
+# print(" my name is ",name)
+#
+# name = input("what your youser name?:")
+# print(" my name yousee is  ",name)
+#
+# name = input("what your father  name?:")
+# print(" my father name is ",name)
+#
+# name = input("what your father fast name name?:")
+# print(" my father fast name is ",name)
+#
+# name = input("what your father last  name?:")
+# print(" my father last name is ",name)
+#
+# name = input("what mather  your name?:")
+# print(" my mather fast name is ",name)
+#
+# name = input("what mather your name?:")
+# print(" my mather last name is ",name)
+#
+# name = input("what do your father?:")
+# print(" my father  is a ",name)
+#
+# name = input("wher your from ?:")
+# print(" my from is ",name)
+#
+# name = input("what do your mather?:")
+# print(" my mather is a ",name)
+#
+# name = input("what do you?:")
+# print(" my a ",name)
+#
+# print("                                  😊Thenkyou from fron korar gono 😊")
+# print("                ❤❤❤❤❤❤❤❤❤❤✨✨✨✨✨✨ sobeca ❤❤❤❤❤❤❤❤❤❤✨✨✨✨✨✨")
+# print("                                              I can see ✔ oky 😊")
+#
+#
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
